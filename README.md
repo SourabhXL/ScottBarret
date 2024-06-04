@@ -1,0 +1,3 @@
+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
+
+git remote set-url origin https://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@github.com/SourabhXL/ScottBarret
